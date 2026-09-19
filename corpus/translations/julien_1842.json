@@ -1,0 +1,334 @@
+{
+  "witness": "julien_1842",
+  "language": "fr",
+  "description": "Stanislas Julien's 1842 French translation, 'Lao-Tseu : Tao-te-king : Le Livre de la voie et de la vertu' (Paris, Imprimerie royale, 1842). Julien died in 1873; the translation is in the public domain worldwide. This is the translation-only ('sans notes') reading edition assembled on French Wikisource from a scan of the original 1842 edition, i.e. it omits the interleaved Chinese characters and Julien's own extensive philological commentary, keeping only the running French translation text, chapter by chapter.",
+  "source_url": "https://fr.wikisource.org/wiki/Tao_Te_King_(Stanislas_Julien,_sans_notes)",
+  "retrieved": "2026-09-17",
+  "notes_general": "Reconstructed here from the individual proofread-namespace page scans of the 1842 edition (Livre:Lao Tseu - Le Livre de la voie et de la vertu.djvu, pages 56-352 per the curated 'sans notes' page list, i.e. Wikisource's own selection of which scanned pages carry pure translation text as opposed to Chinese text/commentary pages). As of retrieval, all of these pages carried Wikisource proofreading-quality level 1 ('not proofread' by the community) rather than level 3/4 (proofread/validated) - the text is a scan-based transcription of the genuine 1842 edition, not a paraphrase or modern edition, but has not been independently cross-checked character-by-character against the original page images beyond automated retrieval, so occasional OCR/transcription slips cannot be fully ruled out.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "text": "La voie qui peut être exprimée par la parole n’est pas la Voie éternelle ; le nom qui peut être nommé n’est pas le Nom éternel.\n\n(L’être) sans nom est l’origine du ciel et de la terre ; avec un nom, il est la mère de toutes choses.\n\nC’est pourquoi, lorsqu’on est constamment exempt de passions, on voit son essence spirituelle ; lorsqu’on a constamment des passions, on le voit sous une forme bornée.\n\nCes deux choses ont une même origine et reçoivent des noms différents. On les appelle toutes deux profondes. Elles sont profondes, doublement profondes. C’est la porte de toutes les choses spirituelles."
+    },
+    {
+      "chapter": 2,
+      "text": "Dans le monde, lorsque tous les hommes ont su apprécier la beauté (morale), alors la laideur (du vice) a paru.\n\nLorsque tous les hommes ont su apprécier le bien, alors le mal a paru.\n\nC’est pourquoi l’être et le non-être naissent l’un de l’autre.\n\nLe difficile et le facile se produisent mutuellement.\n\nLe long et le court se donnent mutuellement leur forme.\n\nLe haut et le bas montrent mutuellement leur inégalité.\n\nLes tons et la voix s’accordent mutuellement.\n\nL’antériorité et la postériorité sont la conséquence l’une de l’autre.\n\nDe là vient que le saint homme fait son occupation du non-agir.\n\nIl fait consister ses instructions dans le silence.\n\nAlors tous les êtres se mettent en mouvement, et il ne leur refuse rien.\n\nIl les produit et ne se les approprie pas.\n\nIl les perfectionne et ne compte pas sur eux.\n\nSes mérites étant accomplis, il ne s’y attache pas.\n\nIl ne s’attache pas à ses mérites ; c’est pourquoi ils ne le quittent point."
+    },
+    {
+      "chapter": 3,
+      "text": "En n’exaltant pas les sages, on empêche le peuple de se disputer.\n\nEn ne prisant pas les biens d’une acquisition difficile, on empêche le peuple de se livrer au vol.\n\nEn ne regardant point des objets propres à exciter des désirs, on empêche que le cœur du peuple ne se trouble.\n\nC’est pourquoi, lorsque le saint homme gouverne, il\n\nvide son cœur, il remplit son ventre (son intérieur), il affaiblit sa volonté, et il fortifie ses os.\n\nIl s’étudie constamment à rendre le peuple ignorant et exempt de désirs.\n\nIl fait en sorte que ceux qui ont du savoir n’osent pas agir.\n\nIl pratique le non-agir, et alors il n’y a rien qui ne soit bien gouverné."
+    },
+    {
+      "chapter": 4,
+      "text": "Le Tao est (le) vide ; si l’on en fait usage, il paraît inépuisable.\n\nÔ qu’il est profond ! Il semble le patriarche de tous les êtres.\n\nIl émousse sa subtilité, il se dégage de tous liens, il tempère sa splendeur, il s’assimile à la poussière.\n\nÔ qu’il est pur ! Il semble subsister éternellement.\n\nJ’ignore de qui il est fils ; il semble avoir précédé le maître du ciel."
+    },
+    {
+      "chapter": 5,
+      "text": "Le ciel et la terre n’ont point d’affection particulière. Ils regardent toutes les créatures comme le chien de paille (du sacrifice).\n\nLe saint homme n’a point d’affection particulière ; il regarde tout le peuple comme le chien de paille (du sacrifice).\n\nL’être qui est entre le ciel et la terre ressemble à un soufflet de forge qui est vide et ne s’épuise point, que l’on met en mouvement et qui produit de plus en plus (du vent).\n\nCelui qui parle beaucoup (du Tao) est souvent réduit au silence.\n\nIl vaut mieux observer le milieu."
+    },
+    {
+      "chapter": 6,
+      "text": "L’esprit de la vallée ne meurt pas ; on l’appelle la femelle mystérieuse.\n\nLa porte de la femelle mystérieuse s’appelle la racine du ciel et de la terre.\n\nIl est éternel et semble exister (matériellement).\n\nSi l’on en fait usage, on n’éprouve aucune fatigue."
+    },
+    {
+      "chapter": 7,
+      "text": "Le ciel et la terre ont une durée éternelle.\n\nS’ils peuvent avoir une durée éternelle, c’est parce qu’ils ne vivent pas pour eux seuls. C’est pourquoi ils peuvent avoir une durée éternelle.\n\nDe là vient que le saint homme se met après les autres, et il devient le premier.\n\nIl se dégage de son corps, et son corps se conserve.\n\nN’est-ce pas qu’il n’a point d’intérêts privés ?\n\nC’est pourquoi il peut réussir dans ses intérêts privés."
+    },
+    {
+      "chapter": 8,
+      "text": "L’homme d’une vertu supérieure est comme l’eau.\n\nL’eau excelle à faire du bien aux êtres et ne lutte point.\n\nElle habite les lieux que déteste la foule.\n\nC’est pourquoi (le sage) approche du Tao.\n\nIl se plaît dans la situation la plus humble.\n\nSon cœur aime à être profond comme un abîme.\n\nS’il fait des largesses, il excelle à montrer de l’humanité.\n\nS’il parle, il excelle à pratiquer la vérité.\n\nS’il gouverne, il excelle à procurer la paix.\n\nS’il agit, il excelle à montrer sa capacité.\n\nS’il se meut, il excelle à se conformer aux temps.\n\nIl ne lutte contre personne ; c’est pourquoi il ne reçoit aucune marque de blâme."
+    },
+    {
+      "chapter": 9,
+      "text": "Il vaut mieux ne pas remplir un vase que de vouloir le maintenir (lorsqu’il est plein).\n\nSi l’on aiguise une lame, bien qu’on l’explore avec la main, on ne pourra la conserver constamment (tranchante).\n\nSi une salle est remplie d’or et de pierres précieuses, personne ne pourra les garder.\n\nSi l’on est comblé d’honneurs et qu’on s’enorgueillisse, on s’attirera des malheurs.\n\nLorsqu’on a fait de grandes choses et obtenu de la réputation, il faut se retirer à l’écart.\n\nTelle est la voie du ciel."
+    },
+    {
+      "chapter": 10,
+      "text": "L’âme spirituelle doit commander à l’âme sensitive.\n\nSi l’homme conserve l’unité, elles pourront rester indissolubles.\n\nS’il dompte sa force vitale et la rend extrêmement souple, il pourra être comme un nouveau-né.\n\nS’il se délivre des lumières de l’intelligence, il pourra être exempt de toute infirmité (morale).\n\nS’il chérit le peuple et procure la paix au royaume, il pourra pratiquer le non-agir.\n\nS’il laisse les portes du ciel s’ouvrir et se fermer, il pourra être comme la femelle (c’est-à-dire rester au repos).\n\nSi ses lumières pénètrent en tous lieux, il pourra paraître ignorant.\n\nIl produit les êtres et les nourrit.\n\nIl les produit et ne les regarde pas comme sa propriété.\n\nIl leur fait du bien et ne compte pas sur eux.\n\nIl règne sur eux et ne les traite pas en maître.\n\nC’est ce qu’on appelle posséder une vertu profonde."
+    },
+    {
+      "chapter": 11,
+      "text": "Trente rais se réunissent autour d’un moyeu. C’est de son vide que dépend l’usage du char.\n\nOn pétrit de la terre glaise pour faire des vases. C’est de son vide que dépend l’usage des vases.\n\nOn perce des portes et des fenêtres pour faire une maison. C’est de leur vide que dépend l’usage de la maison.\n\nC’est pourquoi l’utilité vient de l’être, l’usage naît du non-être."
+    },
+    {
+      "chapter": 12,
+      "text": "Les cinq couleurs émoussent la vue de l’homme.\n\nLes cinq notes (de musique) émoussent l’ouïe de l’homme.\n\nLes cinq saveurs émoussent le goût de l’homme.\n\nLes courses violentes, l’exercice de la chasse égarent le cœur de l’homme.\n\nLes biens d’une acquisition difficile poussent l’homme à des actes qui lui nuisent.\n\nDe là vient que le saint homme s’occupe de son intérieur et ne s’occupe pas de ses yeux.\n\nC’est pourquoi il renonce à ceci et adopte cela."
+    },
+    {
+      "chapter": 13,
+      "text": "Le sage redoute la gloire comme l’ignominie ; son corps lui pèse comme une grande calamité.\n\nQu’entend-on par ces mots : il redoute la gloire comme l’ignominie ?\n\nLa gloire est quelque chose de bas. Lorsqu’on l’a\n\n, on est comme rempli de crainte ; lorsqu’on l’a perdue, on est comme rempli de crainte.\n\nC’est pourquoi l’on dit : il redoute la gloire comme l’ignominie.\n\nQu’entend-on par ces mots : son corps lui pèse comme une grande calamité ?\n\nSi nous éprouvons de grandes calamités, c’est parce que nous avons un corps.\n\nQuand nous n’avons plus de corps (quand nous nous sommes dégagés de notre corps), quelles calamités pourrions-nous éprouver ?\n\nC’est pourquoi, lorsqu’un homme redoute de gouverner lui-même l’empire, on peut lui confier l’empire ; lorsqu’il a regret de gouverner l’empire, on peut lui remettre le soin de l’empire."
+    },
+    {
+      "chapter": 14,
+      "text": "Vous le regardez (le Tao) et vous ne le voyez pas : on le dit incolore.\n\nVous l’écoutez et vous ne l’entendez pas : on le dit aphone.\n\nVous voulez le toucher et vous ne l’atteignez pas : on le dit incorporel.\n\nCes trois qualités ne peuvent être scrutées à l’aide de la parole. C’est pourquoi on les confond en une seule.\n\nSa partie supérieure n’est point éclairée ; sa partie inférieure n’est point obscure.\n\nIl est éternel et ne peut être nommé.\n\nIl rentre dans le non-être.\n\nOn l’appelle une forme sans forme, une image sans image.\n\nOn l’appelle vague, indéterminé.\n\nSi vous allez au-devant de lui, vous ne voyez point sa face ; si vous le suivez vous ne voyez point son dos.\n\nC’est en observant le Tao des temps anciens qu’on peut gouverner les existences d’aujourd’hui.\n\nSi l’homme peut connaître l’origine des choses anciennes, on dit qu’il tient le fil du Tao."
+    },
+    {
+      "chapter": 15,
+      "text": "Dans l’Antiquité, ceux qui excellaient à pratiquer le Tao étaient déliés et subtils, abstraits et pénétrants.\n\nIls étaient tellement profonds qu’on ne pouvait les connaître.\n\nComme on ne pouvait les connaître, je m’efforcerai de donner une idée (de ce qu’ils étaient).\n\nIls étaient timides comme celui qui traverse un torrent en hiver.\n\nIls étaient irrésolus comme celui qui craint d'être aperçu de ses voisins.\n\nIls étaient graves comme un étranger (en présence de l’hôte).\n\nIls s’effaçaient comme la glace qui se fond.\n\nIls étaient rudes comme le bois non travaillé.\n\nIl étaient vides comme une vallée.\n\nIls étaient troubles comme une eau limoneuse.\n\nQui est-ce qui sait apaiser peu à peu le trouble (de son cœur) en le laissant reposer ?\n\nQui est-ce qui sait naître peu à peu (à la vie spirituelle) par un calme prolongé ?\n\nCelui qui conserve ce Tao ne désire pas d’être plein.\n\nIl n’est pas plein (de lui-même), c’est pourquoi il garde ses défauts (apparents), et ne désire pas (d’être jugé) parfait."
+    },
+    {
+      "chapter": 16,
+      "text": "Celui qui est parvenu au comble du vide garde fermement le repos.\n\nLes dix mille êtres naissent ensemble ; ensuite je les vois s’en retourner.\n\nAprès avoir été dans un état florissant, chacun d’eux revient à son origine.\n\nRevenir à son origine s’appelle être en repos.\n\nÊtre en repos s’appelle revenir à la vie.\n\nRevenir à la vie s’appelle être constant.\n\nSavoir être constant s’appelle être éclairé.\n\nCelui qui ne sait pas être constant s’abandonne au désordre et s’attire des malheurs.\n\nCelui qui sait être constant a une âme large.\n\nCelui qui a une âme large est juste.\n\nCelui qui est juste devient roi.\n\nCelui qui est roi s’associe au ciel.\n\nCelui qui s’associe au ciel imite le Tao.\n\nCelui qui imite le Tao subsiste longtemps ; jusqu’à la fin de sa vie, il n’est exposé à aucun danger."
+    },
+    {
+      "chapter": 17,
+      "text": "Dans la Haute Antiquité, le peuple savait seulement qu’il avait des rois.\n\nLes suivants, il les aima et leur donna des louanges.\n\nLes suivants il les craignit.\n\nLes suivants, il les méprisa.\n\nCelui qui n’a pas confiance dans les autres n’obtient pas leur confiance.\n\n(Les premiers) étaient graves et réservés dans leurs paroles.\n\nAprès qu’ils avaient acquis des mérites et réussi dans leurs desseins, les cent familles disaient : Nous suivons notre nature."
+    },
+    {
+      "chapter": 18,
+      "text": "Quand la grande Voie eut dépéri, on vit paraître l’humanité et la justice.\n\nQuand la prudence et la perspicacité se furent montrées, on vit naître une grande hypocrisie.\n\nQuand les six parents eurent cessé de vivre en bonne harmonie, on vit des actes de piété filiale et d’affection paternelle.\n\nQuand les États furent tombés dans le désordre, on vit des sujets fidèles et dévoués."
+    },
+    {
+      "chapter": 19,
+      "text": "Si vous renoncez à la sagesse et quittez la prudence, le peuple sera cent fois plus heureux.\n\nSi vous renoncez à l’humanité et quittez la justice, le peuple reviendra à la piété filiale et à l’affection paternelle.\n\nSi vous renoncez à l’habileté et quittez le lucre, les voleurs et les brigands disparaîtront.\n\nRenoncez à ces trois choses et persuadez-vous que l’apparence ne suffit pas.\n\nC’est pourquoi je montre aux hommes ce à quoi ils doivent s’attacher.\n\nQu’ils tâchent de laisser voir leur simplicité, de conserver leur pureté, d’avoir peu d’intérêts privés et peu de désirs."
+    },
+    {
+      "chapter": 20,
+      "text": "Renoncez à l’étude, et vous serez exempt de chagrins.\n\nCombien est petite la différence de weï (un oui bref) et de o (un oui lent) !\n\nCombien est grande la différence du bien et du mal !\n\nCe que les hommes craignent, on ne peut s’empêcher de le craindre.\n\nIls s’abandonnent au désordre et ne s’arrêtent jamais.\n\nLes hommes de la multitude sont exaltés de joie comme celui qui se repaît de mets succulents, comme celui qui est monté, au printemps, sur une tour élevée.\n\nMoi seul je suis calme : (mes affections) n’ont pas encore germé.\n\nJe ressemble à un nouveau-né qui n’a pas encore souri à sa mère.\n\nJe suis détaché de tout, on dirait que je ne sais où aller.\n\nLes hommes de la multitude ont du superflu ; moi seul je suis comme une homme qui a perdu tout.\n\nJe suis un homme d’un esprit borné, je suis dépourvu de connaissances.\n\nLes hommes de la multitude sont remplis de lumières ; moi seul je suis comme plongé dans les ténèbres.\n\nLes hommes du monde sont doués de pénétration ; moi seul j’ai l’esprit trouble et confus.\n\nJe suis vague comme la mer ; je flotte comme si je ne savais où m’arrêter.\n\nLes hommes de la multitude ont tous de la capacité ; moi seul je suis stupide ; je ressemble à un homme rustique.\n\nMoi seul je diffère des autres hommes, parce que je révère la mère qui nourrit (tous les êtres)."
+    },
+    {
+      "chapter": 21,
+      "text": "Les formes visibles de la grande Vertu émanent uniquement du Tao.\n\nVoici quelle est la nature du Tao.\n\nIl est vague, il est confus.\n\nQu’il est confus, qu’il est vague !\n\nAu-dedans de lui, il y a des images.\n\nQu’il est vague, qu’il est confus !\n\nAu-dedans de lui il y a des êtres.\n\nQu'il est profond, qu'il est obscur !\n\nAu-dedans de lui il y a une essence spirituelle. Cette essence spirituelle est profondément vraie.\n\nAu-dedans de lui, réside le témoignage infaillible (de ce qu’il est) ; depuis les temps anciens jusqu’à aujourd’hui, son nom n’a point passé.\n\nIl donne issue (naissance) à tous les êtres.\n\nComme sais-je qu’il en est ainsi de tous les êtres ? (Je le sais) par le Tao."
+    },
+    {
+      "chapter": 22,
+      "text": "Ce qui est incomplet devient entier.\n\nCe qui est courbé devient droit.\n\nCe qui est creux devient plein.\n\nCe qui est usé devient neuf.\n\nAvec peu (de désirs) on acquiert le Tao ; avec beaucoup (de désirs) on s’égare.\n\nDe là vient que le saint homme conserve l’Unité (le Tao), et il est le modèle du monde.\n\nIl ne se met pas en lumière, c’est pourquoi il brille.\n\nIl ne s’approuve point, c’est pourquoi il jette de l’éclat.\n\nIl ne se vante point, c’est pourquoi il a du mérite.\n\nIl ne se glorifie point, c’est pourquoi il est le supérieur des autres.\n\nIl ne lutte point, c’est pourquoi il n’y a personne dans l’empire qui puisse lutter contre lui.\n\nL’axiome des anciens : Ce qui est incomplet devient entier, était-ce une expression vide de sens ?\n\nQuand l’homme est devenu véritablement parfait, (le monde) vient se soumettre à lui."
+    },
+    {
+      "chapter": 23,
+      "text": "Celui qui ne parle pas (arrive au) non-agir.\n\nUn vent rapide ne dure pas toute la matinée ; une pluie violente ne dure pas tout le jour.\n\nQui est-ce qui produit ces deux choses ? Le ciel et la terre.\n\nSi le ciel et la terre même ne peuvent subsister longtemps, à plus forte raison l’homme !\n\nC’est pourquoi si l’homme se livre au Tao, il s’identifie au Tao ; s’il se livre à la vertu, il s’identifie à la vertu ; s’il se livre au crime, il s’identifie au crime.\n\nCelui qui s’identifie au Tao gagne le Tao ; celui qui s’identifie au crime gagne (la honte du) crime.\n\nSi on ne croit pas fortement (au Tao), l’on finit par n’y plus croire."
+    },
+    {
+      "chapter": 24,
+      "text": "Celui qui se dresse sur ses pieds ne peut se tenir droit ; celui qui étend les jambes ne peut marcher.\n\nCelui qui tient à ses vues n’est point éclairé.\n\nCelui qui s’approuve lui-même ne brille pas.\n\nCelui qui se vante n’a point de mérite.\n\nCelui qui se glorifie ne subsiste pas longtemps.\n\nSi l’on juge cette conduite selon le Tao, on la compare à un reste d’aliments ou à un goitre hideux qui inspirent aux hommes un constant dégoût.\n\nC’est pourquoi celui qui possède le Tao ne s’attache pas à cela."
+    },
+    {
+      "chapter": 25,
+      "text": "Il est un être confus qui existait avant le ciel et la terre.\n\nÔ qu’il est calme ! Ô qu’il est immatériel !\n\nIl subsiste seul et ne change point.\n\nIl circule partout et ne périclite point.\n\nIl peut être regardé comme la mère de l’univers.\n\nMoi, je ne sais pas son nom.\n\nPour lui donner un titre, je l’appelle Voie (Tao).\n\nEn m’efforçant de lui faire un nom, je l’appelle grand.\n\nDe grand, je l’appelle fugace.\n\nDe fugace, je l’appelle éloigné.\n\nD’éloigné, je l’appelle (l’être) qui revient.\n\nC’est pourquoi le Tao est grand, le ciel est grand, la terre est grande, le roi aussi est grand.\n\nDans le monde, il y a quatre grandes choses, et le roi en est une. L’homme imite la terre ; la terre imite le ciel, le ciel imite le Tao ; le Tao imite sa nature."
+    },
+    {
+      "chapter": 26,
+      "text": "Le grave est la racine du léger ; le calme est le maître du mouvement.\n\nDe là vient que le saint homme marche tout le jour (dans le Tao) et ne s’écarte point de la quiétude et de la gravité.\n\nQuoiqu’il possède des palais magnifiques, il reste calme et les fuit.\n\nMais hélas ! les maîtres de dix mille chars se conduisent légèrement dans l’empire !\n\nPar une conduite légère, on perd ses ministres ; par l’emportement des passions, on perd son trône."
+    },
+    {
+      "chapter": 27,
+      "text": "Celui qui sait marcher (dans le Tao) ne laisse pas de traces ; celui qui sait parler ne commet point de fautes ; celui qui sait compter ne se sert point d’instruments de calcul ; celui qui sait fermer (quelque chose) ne se sert point de verrou, et il est impossible de l’ouvrir ; celui\n\nqui sait lier (quelque chose) ne se sert point de cordes, et il est impossible de le délier.\n\nDe là vient que le Saint excelle constamment à sauver les hommes ; c’est pourquoi il n’abandonne pas les hommes.\n\nIl excelle constamment à sauver les êtres ; c’est pourquoi il n’abandonne pas les êtres.\n\nCela s’appelle être doublement éclairé.\n\nC’est pourquoi l’homme vertueux est le maître de celui qui n’est pas vertueux.\n\nL’homme qui n’est pas vertueux est le secours de l’homme vertueux.\n\nSi l’un n’estime pas son maître, si l’autre n’affectionne pas celui qui est son secours, quand on leur accorderait une grande prudence, ils sont plongés dans l’aveuglement.\n\nVoilà ce qu’il y a de plus important et de plus subtil !"
+    },
+    {
+      "chapter": 28,
+      "text": "Celui qui connaît sa force et garde la faiblesse est la vallée de l’empire (c’est-à-dire le centre où accourt tout l’empire).\n\nS’il est la vallée de l’empire, la vertu constante ne l’abandonnera pas ; il reviendra à l’état d’enfant.\n\nCelui qui connaît ses lumières et garde les ténèbres, est le modèle de l’empire.\n\nS’il est le modèle de l’empire, la vertu constante ne faillira pas (en lui), et il reviendra au comble (de la pureté).\n\nCelui qui connaît sa gloire et garde l’ignominie est aussi la vallée de l’empire.\n\nS’il est la vallée de l’empire, sa vertu constante atteindra la perfection et il reviendra à la simplicité parfaite (au Tao).\n\nQuand la simplicité parfaite (le Tao) s’est répandue, elle a formé les êtres.\n\nLorsque le saint homme est élevé aux emplois, il devient le chef des magistrats. Il gouverne grandement et ne blesse personne."
+    },
+    {
+      "chapter": 29,
+      "text": "Si l’homme agit pour gouverner parfaitement l’empire, je vois qu’il n’y réussira pas.\n\nL’empire est (comme) un vase divin (auquel l’homme) ne doit pas travailler.\n\nS’il y travaille, il le détruit ; s’il veut le saisir, il le perd.\n\nC’est pourquoi, parmi les êtres, les uns marchent (en avant) et les autres suivent ; les uns réchauffent et les autres refroidissent ; les uns sont forts et les autres faibles, les uns se meuvent et les autres s’arrêtent.\n\nDe là vient que le saint homme supprime les excès, le luxe et la magnificence."
+    },
+    {
+      "chapter": 30,
+      "text": "Celui qui aide le maître des hommes par le Tao ne (doit pas) subjuguer l’empire par les armes.\n\nQuoi qu’on fasse aux hommes, ils rendent la pareille.\n\nPartout où séjournent les troupes, on voit naître les épines et les ronces.\n\nÀ la suite des grandes guerres, il y a nécessairement des années de disette.\n\nL’homme vertueux frappe un coup décisif et s’arrête. Il n’ose subjuguer l’empire par la force des armes.\n\nIl frappe un coup décisif et ne se vante point.\n\nIl frappe un coup décisif et ne se glorifie point.\n\nIl frappe un coup décisif et ne s’enorgueillit point.\n\nIl frappe un coup décisif et ne combat que par nécessité.\n\nIl frappe un coup décisif et ne veut point paraître fort.\n\nQuand les êtres sont arrivés à la plénitude de leur force, ils vieillissent.\n\nCela s’appelle ne pas imiter le Tao. Celui qui n’imite pas le Tao ne tarde pas à périr."
+    },
+    {
+      "chapter": 31,
+      "text": "Les armes les plus excellentes sont des instruments de malheur.\n\nTous les hommes les détestent. C’est pourquoi celui qui possède le Tao ne s’y attache pas.\n\nEn temps de paix, le sage estime la gauche ; celui qui fait la guerre estime la droite.\n\nLes armes sont des instruments de malheur ; ce ne sont point les instruments du sage.\n\nIl ne s’en sert que lorsqu’il ne peut s’en dispenser, et met au premier rang le calme et le repos.\n\nS’il triomphe, il ne s’en réjouit pas. S’en réjouir, c’est aimer à tuer les hommes.\n\nCelui qui aime à tuer les hommes ne peut réussir à régner sur l’empire.\n\nDans les événements heureux, on préfère la gauche ; dans les événements malheureux, on préfère la droite.\n\nLe général en second occupe la gauche ; le général en chef occupe la droite.\n\nJe veux dire qu’on le place suivant les rites funèbres.\n\nCelui qui a tué une multitude d’hommes doit pleurer sur eux avec des larmes et des sanglots.\n\nCelui qui a vaincu dans un combat, on le place suivant les rites funèbres."
+    },
+    {
+      "chapter": 32,
+      "text": "Le Tao est éternel et n’a pas de nom.\n\nQuoiqu’il soit petit de sa nature, le monde entier ne pourrait le subjuguer.\n\nSi les vassaux et les rois peuvent le conserver, tous les êtres viendront spontanément se soumettre à eux.\n\nLe ciel et la terre s’uniront ensemble pour faire descendre une douce rosée, et les peuples se pacifieront d’eux-mêmes sans que personne le leur ordonne.\n\nDès que le Tao se fut divisé, il eut un nom.\n\nCe nom une fois établi, il faut savoir se retenir.\n\nCelui qui sait se retenir ne périclite jamais.\n\nLe Tao est répandu dans l’univers.\n\n(Tous les êtres retournent à lui) comme les rivières et les ruisseaux des montagnes retournent aux fleuves et aux mers."
+    },
+    {
+      "chapter": 33,
+      "text": "Celui qui connaît les hommes est prudent.\n\nCelui qui se connaît lui-même est éclairé.\n\nCelui qui dompte les hommes est puissant.\n\nCelui qui se dompte lui-même est fort.\n\nCelui qui sait se suffire est assez riche.\n\nCelui qui agit avec énergie est doué d’une ferme volonté.\n\nCelui qui ne s’écarte point de sa nature subsiste longtemps.\n\nCelui qui meurt et ne périt pas jouit d’une (éternelle) longévité."
+    },
+    {
+      "chapter": 34,
+      "text": "Le Tao s’étend partout ; il peut aller à gauche comme à droite.\n\nTous les êtres comptent sur lui pour naître, et il ne les repousse point.\n\nQuand ses mérites sont accomplis, il ne se les attribue point.\n\nIl aime et nourrit tous les êtres, et ne se regarde pas comme leur maître.\n\nIl est constamment sans désirs : on peut l’appeler petit.\n\nTous les êtres se soumettent à lui, et il ne se regarde pas comme leur maître : on peut l’appeler grand.\n\nDe là vient que, jusqu’à la fin de sa vie, le saint homme ne s’estime pas grand.\n\nC’est pourquoi il peut accomplir de grandes choses."
+    },
+    {
+      "chapter": 35,
+      "text": "Le saint garde la grande image (le Tao), et tous les peuples de l’empire accourent à lui.\n\nIls accourent, et il ne leur fait point de mal ; il leur procure la paix, le calme et la quiétude.\n\nLa musique et les mets exquis retiennent l’étranger qui passe.\n\nMais lorsque le Tao sort de notre bouche, il est fade et sans saveur.\n\nOn le regarde et l’on ne peut le voir ; on l’écoute et l’on ne peut l’entendre ; on l’emploie et l’on ne peut l’épuiser."
+    },
+    {
+      "chapter": 36,
+      "text": "Lorsqu’une créature est sur le point de se contracter, (on reconnaît) avec certitude que dans l’origine elle a eu de l’expansion.\n\nEst-elle sur le point de s’affaiblir, (on reconnaît) avec certitude que dans l’origine elle a eu de la force.\n\nEst-elle sur le point de dépérir, (on reconnaît) avec certitude que dans l’origine elle a eu de la splendeur.\n\nEst-elle sur le point d’être dépouillée de tout, (on reconnaît) avec certitude que dans l’origine elle a été comblée de dons.\n\nCela s’appelle (une doctrine à la fois) cachée et éclatante.\n\nCe qui est mou triomphe de ce qui est dur ; ce qui est faible triomphe de ce qui est fort.\n\nLe poisson ne doit point quitter les abîmes ; l’arme acérée du royaume ne doit pas être montrée au peuple."
+    },
+    {
+      "chapter": 37,
+      "text": "Le Tao pratique constamment le non-agir et (pourtant) il n’y a rien qu’il ne fasse.\n\nSi les rois et les vassaux peuvent le conserver, tous les êtres se convertiront.\n\nSi, une fois convertis, ils veulent encore se mettre en mouvement, je les contiendrai à l’aide de l’être simple qui n’a pas de nom (c’est-à-dire le Tao).\n\nL’être simple qui n’a pas de nom, il ne faut pas même le désirer. L’absence de désirs procure la quiétude.\n\nAlors l’empire se rectifie de lui-même."
+    },
+    {
+      "chapter": 38,
+      "text": "Les hommes d’une vertu supérieure ignorent leur vertu ; c’est pourquoi ils ont de la vertu.\n\nLes hommes d’une vertu inférieure n’oublient pas leur vertu ; c’est pourquoi ils n’ont pas de vertu.\n\nLes hommes d’une vertu supérieure la pratiquent sans y songer.\n\nLes hommes d’une vertu inférieure la pratiquent avec intention.\n\nLes hommes d’une humanité supérieure la pratiquent sans y songer.\n\nLes hommes d’une équité supérieure la pratiquent avec intention.\n\nLes hommes d’une urbanité supérieure la pratiquent et personne n’y répond ; alors ils emploient la violence pour qu’on les paye de retour.\n\nC’est pourquoi l’on a de la vertu après avoir perdu le Tao ; de l’humanité après avoir perdu la vertu ; de l’équité après avoir perdu l’humanité ; de l’urbanité après avoir perdu l’équité.\n\nL’urbanité n’est que l’écorce de la droiture et de la sincérité ; c’est la source du désordre.\n\nLe faux savoir n’est que la fleur du Tao et le principe de l’ignorance.\n\nC’est pourquoi un grand homme s’attache au solide et laisse le superficiel.\n\nIl estime le fruit et laisse la fleur.\n\nC’est pourquoi il rejette l’une et adopte l’autre."
+    },
+    {
+      "chapter": 39,
+      "text": "Voici les choses qui jadis ont obtenu l’Unité.\n\nLe ciel est pur parce qu’il a obtenu l’Unité.\n\nLa terre est en repos parce qu’elle a obtenu l’Unité.\n\nLes esprits sont doués d’une intelligence divine parce qu’ils ont obtenu l’Unité.\n\nLes vallées se remplissent parce qu’elles ont obtenu l’Unité.\n\nLes dix mille êtres naissent parce qu’ils ont obtenu l’Unité.\n\nLes princes et rois sont les modèles du monde parce qu’ils ont obtenu l’Unité.\n\nVoilà ce que l’unité produit.\n\nSi le ciel perdait sa pureté, il se dissoudrait ;\n\nSi la terre perdait son repos, elle s’écroulerait ;\n\nSi les esprits perdaient leur intelligence divine, ils s’anéantiraient ;\n\nSi les vallées ne se remplissaient plus, elles se dessécheraient ;\n\nSi les dix mille êtres ne naissaient plus, ils s’éteindraient ;\n\nSi les princes et les rois s’enorgueillissaient de leur\n\nnoblesse et de leur élévation, et cessaient d’être les modèles (du monde), ils seraient renversés.\n\nC’est pourquoi les nobles regardent la roture comme leur origine ; les hommes élevés regardent la bassesse de la condition comme leur premier fondement.\n\nDe là vient que les princes et les rois s’appellent eux-mêmes orphelins, hommes de peu de mérite, hommes dénués de vertu.\n\nNe montrent-ils pas par là qu’ils regardent la roture comme leur véritable origine ? Et ils ont raison !\n\nC’est pourquoi si vous décomposez un char, vous n’avez plus de char.\n\n(Le sage) ne veut pas être estimé comme le jade, ni méprisé comme la pierre."
+    },
+    {
+      "chapter": 40,
+      "text": "Le retour au non-être (produit) le mouvement du Tao.\n\nLa faiblesse est la fonction du Tao.\n\nToutes les choses du monde sont nées de l’être ; l’être est né du non-être."
+    },
+    {
+      "chapter": 41,
+      "text": "Quand les lettrés supérieurs ont entendu parler du Tao, ils le pratiquent avec zèle.\n\nQuand les lettrés du second ordre ont entendu parler du Tao, tantôt ils le conservent, tantôt ils le perdent.\n\nQuand les lettrés inférieurs ont entendu parler du Tao, imi ils le tournent en dérision. S’ils ne le tournaient pas en dérision, il ne mériterait pas le nom de Tao.\n\nC’est pourquoi les anciens disaient :\n\nCelui qui à l’intelligence du Tao paraît enveloppé de ténèbres.\n\nCelui qui est avancé dans le Tao ressemble à un homme arriéré.\n\nCelui qui est à la hauteur du Tao ressemble à un homme vulgaire.\n\nL’homme d’une vertu supérieure est comme une vallée.\n\nL’homme d’une grande pureté est comme couvert d’opprobre.\n\nL’homme d’un mérite immense paraît frappé d’incapacité.\n\nL’homme d’une vertu solide semble dénué d’activité.\n\nLihomme simple et vrai semble vil et dégradé.\n\nC’est un grand carré dont on ne voit pas les angles ; un grand vase qui semble loin d’être achevé ; une grande voix dont le son est imperceptible ; une grande image dont on n’aperçoit point la forme !\n\nLe Tao se cache et personne ne peut le nommer.\n\nIl sait prêter (secours aux êtres) et les conduire à la perfection."
+    },
+    {
+      "chapter": 42,
+      "text": "Le Tao a produit un ; un a produit deux ; deux a produit trois ; trois a produit tous les êtres.\n\nTous les êtres fuient le calme et cherchent le mouvement.\n\nUn souffle immatériel forme l’harmonie.\n\nCe que les hommes détestent, c’est d’être orphelins, imparfaits, dénués de vertu, et cependant les rois s'appellent ainsi eux-mêmes.\n\nC’est pourquoi, parmi les êtres, les uns s’augmentent en se diminuant ; les autres se diminuent en s’augmentant.\n\nCe que les hommes enseignent, je l’enseigne aussi.\n\nLes hommes violents et inflexibles n’obtiennent point une mort naturelle.\n\nJe veux prendre leur exemple pour la base de mes instructions."
+    },
+    {
+      "chapter": 43,
+      "text": "Les choses les plus molles du monde subjuguent les choses les plus dures du monde.\n\nLe non-être traverse les choses impénétrables. C’est par là que je sais que le non-agir est utile.\n\nDans l’univers, il y a bien peu d’hommes qui sachent instruire sans parler et tirer profit du non-agir."
+    },
+    {
+      "chapter": 44,
+      "text": "Qu’est-ce qui nous touche de plus près, de notre gloire ou de notre personne ?\n\nQu’est-ce qui nous est le plus précieux, de notre personne ou de nos richesses ?\n\nQuel est le plus grand malheur, de les acquérir ou de les perdre ?\n\nC’est pourquoi celui qui a de grandes passions est nécessairement exposé à de grands sacrifices.\n\nCelui qui cache un riche trésor éprouve nécessairement de grandes pertes.\n\nCelui qui sait se suffire est à l’abri du déshonneur.\n\nCelui qui sait s’arrêter ne périclite jamais.\n\nIl pourra subsister longtemps."
+    },
+    {
+      "chapter": 45,
+      "text": "(Le Saint) est grandement parfait, et il paraît plein d’imperfections ; ses ressources ne s’usent point.\n\nIl est grandement plein, et il paraît vide ; ses ressources · ne s’épuisent point.\n\nIl est grandement droit, et il semble manquer de rectitude.\n\nIl est grandement ingénieux, et il paraît stupide.\n\nIl est grandement disert, et il paraît bègue.\n\nLe mouvement triomphe du froid ; le repos triomphe de la chaleur.\n\nCelui qui est pur et tranquille devient le modèle de l’univers."
+    },
+    {
+      "chapter": 46,
+      "text": "Lorsque le Tao régnait dans le monde, on renvoyait les chevaux pour cultiver les champs.\n\nf Depuis que le Tao ne règne plus dans le monde, les chevaux de combat naissent sur les frontières.\n\nIl n’y a pas de plus grand crime que de se livrer à ses désirs.\n\nIl n’y a pas de plus grand malheur que de ne pas savoir se suffire.\n\nil Il n’y a pas de plus grande calamité que le désir d’acquérir.\n\nCelui qui sait se suffire est toujours content de son sort."
+    },
+    {
+      "chapter": 47,
+      "text": "Sans sortir de ma maison, je connais l’univers ; sans regarder par ma fenêtre, Je découvre les voies du ciel.\n\nPlus l’on s’éloigne et moins l'on apprend.\n\nC’est pourquoi le sage arrive (où il veut) sans marcher ; il nomme les objets sans les voir ; sans agir, il accomplit de grandes choses."
+    },
+    {
+      "chapter": 48,
+      "text": "Celui qui se livre à l’étude augmente chaque jour (ses connaissances).\n\nCelui qui se livre au Tao diminue chaque jour (ses passions).\n\nIl les diminue et les diminue sans cesse jusqu’à ce qu’il soit arrivé au non-agir.\n\nDès qu’il pratique le non-agir, il n’y a rien qui lui soit impossible.\n\nC’est toujours par le non-agir que l’on devient le maître de l’empire.\n\nCelui qui aime à agir est incapable de devenir le maître de l’empire."
+    },
+    {
+      "chapter": 49,
+      "text": "Le Saint n’a point de sentiments immuables. Il adopte les sentiments du peuple.\n\nCelui qui est vertueux, il le traite comme un homme vertueux ; celui qui n’est pas vertueux, il le traite aussi comme un homme vertueux. C’est là le comble de la vertu.\n\nCelui qui est sincère, il le traité comme un homme sincère ; celui qui n’est pas sincère, il le traité aussi comme un homme sincère. C’est là le comble de la sincérité.\n\nLe Saint vivant dans le monde reste calme et tranquille, et conserve les mêmes sentiments pour tous.\n\nLes cent familles attachent sur lui leurs oreilles et leurs yeux.\n\nLe Saint regarde le peuple comme un enfant."
+    },
+    {
+      "chapter": 50,
+      "text": "L’homme sort de la vie pour entrer dans la mort.\n\nIl y a treize causes de vie et treize causes de mort.\n\nÀ peine est-il né que ces treize causes de mort l’entraînent rapidement au trépas.\n\nQuelle en est la raison ? C’est qu’il veut vivre avec trop d’intensité.\n\nOr j’ai appris que celui qui sait gouverner sa vie ne craint sur sa route ni le rhinocéros, ni le tigre.\n\nS’il entre dans une armée, il n’a besoin ni de cuirasse, ni d’armes.\n\nLe rhinocéros ne saurait où le frapper de sa corne, le tigre où le déchirer de ses ongles, le soldat où le percer de son glaive.\n\nQuelle en est la cause ? Il est à l’abri de la mort !"
+    },
+    {
+      "chapter": 51,
+      "text": "Le Tao produit les êtres, la Vertu les nourrit. Ils leur donnent un corps et les perfectionnent par une secrète impulsion.\n\nC’est pourquoi tous les êtres révèrent le Tao et honorent la Vertu.\n\nPersonne n’a conféré au Tao sa dignité, ni à la Vertu sa noblesse : ils les possèdent éternellement en eux-mêmes.\n\nC’est pourquoi le Tao produit les êtres, les nourrit, les fait croître, les perfectionne, les mûrit, les alimente, les protège.\n\nIl les produit et ne se les approprie point ; il les fait ce qu’ils sont et ne s’en glorifie point ; il règne sur eux et les laisse libres.\n\nC’est là ce qu’on appelle une vertu profonde."
+    },
+    {
+      "chapter": 52,
+      "text": "Le principe du monde est devenu la mère du monde.\n\nDès qulon possède la mère, on connaît ses enfants.\n\nDès que l’homme connaît les enfants et qu’il conserve leur mère, jusqu’à la fin de sa vie il n’est exposé à aucun danger.\n\nS’il clot sa bouche, s’il ferme ses oreilles et ses yeux, jusqu’au terme de ses jours, il n’éprouvera aucune fatigue.\n\nMais s’il ouvre sa bouche et augmente ses désirs, jusqu’à la fin de sa vie, il ne pourra être sauvé.\n\nCelui qui voit les choses les plus subtiles s’appelle éclairé ; celui qui conserve la faiblesse s’appelle fort.\n\nS’il fait usage de l’éclat (du Tao) et revient à sa lumière, son corps n’aura plus à craindre aucune calamité.\n\nC’est là ce qu’on appelle être doublement éclairé."
+    },
+    {
+      "chapter": 53,
+      "text": "Si j’étais doué de quelque connaissance, je marcherais dans la grande Voie.\n\nLa seule chose que je craigne, c’est d’agir.\n\nLa grande Voie est très-unie, mais le peuple aime les sentiers.\n\nSi les palais sont très-brillants, les champs sont très-incultes, et les greniers très-vides.\n\nLes princes s’habillent de riches étoffes ; ils portent un glaive tranchant ; ils se rassasient de mets exquis ; ils regorgent de richesses.\n\nC’est ce qu’on appelle se glorifier du vol ; ce n’est point pratiquer le Tao."
+    },
+    {
+      "chapter": 54,
+      "text": "Celui qui sait fonder ne craint point la destruction ;\n\ncelui qui sait conserver ne craint point de perdre.\n\nSes fils et ses petits-fils lui offriront des sacrifices sans interruption.\n\nSi (l’homme) cultive le Tao au dedans de lui-même, sa vertu deviendra sincère.\n\nS’il le cultive dans sa famille, sa vertu deviendra surabondante.\n\nS’il le cultive dans le village, sa vertu deviendra étendue.\n\nS’il le cultive dans le royaume, sa vertu deviendra florissante.\n\nS’il le cultive dans l’empire, sa vertu deviendra universelle.\n\nC’est pourquoi, d’après moi-même, je juge des autres hommes ; d’après une famille, je juge des autres familles ; d’après un village, je juge des autres villages ; d’après un royaume, je juge des autres royaumes ; d’après l’empire, je juge de l’empire.\n\nComment sais-je qu’il en est ainsi de l’empire ? C’est uniquement par là."
+    },
+    {
+      "chapter": 55,
+      "text": "Celui qui possède une vertu solide ressemble à un nouveau-né qui ne craint ni la piqûre des animaux venimeux, ni les grilles des bêtes féroces, ni les serres des oiseaux de proie.\n\nSes os sont faibles, ses nerfs sont mous, et cependant il saisit fortement les objets.\n\nIl ne connaît pas encore l’union des deux sexes, et cependant certaines parties (de son corps) éprouvent un orgasme viril. Cela vient de la perfection du semen.\n\nIl crie tout le jour et sa voix ne s’altère point ; cela vient de la perfection de l’harmonie (de la force vitale).\n\nConnaître l’harmonie s’appelle être constant.\n\nConnaître la constance s’appelle être éclairé.\n\nAugmenter sa vie s’appelle une calamité.\n\nQuand le cœur donne l’impulsion à l’énergie vitale, cela s’appelle être fort.\n\nDès que les êtres sont devenus robustes, ils vieillissent.\n\nC’est ce qu’on appelle ne pas imiter le Tao.\n\nCelui qui n’imite pas le Tao périt de bonne heure."
+    },
+    {
+      "chapter": 56,
+      "text": "L’homme qui connaît (le Tao) ne parle pas ; celui qui parle ne le connaît pas.\n\nIl clot sa bouche, il ferme ses oreilles et ses yeux, il émousse son activité, il se dégage de tous liens, il tempère sa lumière (intérieure), il s’assimile au vulgaire. On peut dire qu’il ressemble au Tao.\n\nIl est inaccessible à la faveur comme à la disgrâce, au profit comme au détriment, aux honneurs comme à l’ignominie.\n\nC’est pourquoi il est l’homme le plus honorable de l’univers."
+    },
+    {
+      "chapter": 57,
+      "text": "Avec la droiture, on gouverne le royaume ; avec la ruse, on fait la guerre ; avec le non-agir, on devient le maître de l’empire.\n\nComment sais-je qu’il en est ainsi de l’empire ? Par ceci.\n\nPlus le roi multiplie les prohibitions et les défenses, et plus le peuple s’appauvrit ;\n\nPlus le peuple a d’instruments de lucre, et plus le royaume se trouble ;\n\nPlus le peuple a d’adresse et d’habileté et plus l’on voit fabriquer d’objets bizarres ;\n\nPlus les lois se manifestent, et plus les voleurs s’accroissent.\n\nC’est pourquoi le Saint dit : Je pratique le non-agir, et le peuple se convertit de lui-même.\n\nJ’aime la quiétude, et le peuple se rectifie de lui-même.\n\nJe m’abstiens de toute occupation, et le peuple s’enrichit de lui-même.\n\nJe me dégage de tous désirs, et le peuple revient de lui-même à la simplicité."
+    },
+    {
+      "chapter": 58,
+      "text": "Lorsque l’administration (paraît) dépourvue de lumières, le peuple devient riche.\n\nLorsque l’administration est clairvoyante, le peuple manque de tout.\n\nLe bonheur naît du malheur, le malheur est caché au sein du bonheur. Qui peut en prévoir la fin ?\n\nSi le prince n’est pas droit, les hommes droits deviendront trompeurs, et les hommes vertueux, pervers.\n\nLes hommes sont plongés dans l’erreur, et cela dure depuis bien longtemps !\n\nC’est pourquoi le Saint est juste et ne blesse pas (le peuple).\n\nIl est désintéressé et ne lui fait pas de tort.\n\nIl est droit et ne le redresse pas.\n\nIl est éclairé et ne l’éblouit pas."
+    },
+    {
+      "chapter": 59,
+      "text": "Pour gouverner les hommes et servir le ciel, rien n’est comparable à la modération.\n\nLa modération doit être le premier soin de l’homme.\n\nQuand elle est devenue son premier soin, on peut dire qu’il accumule abondamment la vertu.\n\nQuand il accumule abondamment la vertu, il n’y a rien dont il ne triomphe.\n\nQuand il n’y a rien dont il ne triomphe, personne ne connaît ses limites.\n\nQuand personne ne connaît ses limites, il peut posséder le royaume.\n\nCelui qui possède la mère du royaume peut subsister longtemps.\n\nC’est ce qu'on appelle avoir des racines profondes et une tige solide.\n\nVoilà l’art de vivre longuement et de jouir d’une existence durable."
+    },
+    {
+      "chapter": 60,
+      "text": "Pour gouverner un grand royaume, (on doit) imiter (celui qui) fait cuire un petit poisson.\n\nLorsque le prince dirige l’empire par le Tao, les démons ne montrent point leur puissance.\n\nCe n’est point que les démons manquent de puissance, c’est que les démons ne blessent point les hommes.\n\nCe n’est point que les démons ne (puissent) blesser les hommes, c’est que le Saint lui-même ne blesse point les hommes.\n\nNi le Saint ni les démons ne les blessent ; c’est pourquoi ils confondent ensemble leur vertu."
+    },
+    {
+      "chapter": 61,
+      "text": "Un grand royaume (doit s’abaisser comme) les fleuves et les mers, où se réunissent (toutes les eaux de) l’empire.\n\nDans le monde, tel est le rôle de la femelle. En restant en repos, elle triomphe constamment du mâle. Ce repos est une sorte d’abaissement.\n\nC’est pourquoi, si un grand royaume s’abaisse devant les petits royaumes, il gagnera les petits royaumes.\n\nSi les petits royaumes s’abaissent devant un grand royaume, ils gagneront le grand royaume.\n\nC’est pourquoi les uns s’abaissent pour recevoir, les autres s’abaissent pour être reçus.\n\nCe que désire uniquement un grand royaume, c’est de réunir et de gouverner les autres hommes.\n\nCe que désire uniquement un petit royaume, c’est d’être admis à servir les autres hommes.\n\nAlors tous deux obtiennent ce qu’ils désiraient.\n\nMais les grands doivent s’abaisser !"
+    },
+    {
+      "chapter": 62,
+      "text": "Le Tao est l’asile de tous les êtres ; c’est le trésor de l’homme vertueux et l’appui du méchant.\n\nLes paroles excellentes peuvent faire notre richesse, les actions honorables peuvent nous élever au-dessus des autres.\n\nSi un homme n’est pas vertueux, pourrait-on le repousser avec mépris ?\n\nC’est pour cela qu’on avait établi un empereur et institué trois ministres.\n\nIl est beau de tenir devant soi une tablette de jade, ou d’être monté sur un quadrige ; mais il vaut mieux rester assis pour avancer dans le Tao.\n\nPourquoi les anciens estimaient-ils le Tao ?\n\nN’est-ce pas parce qu’on le trouve naturellement sans le chercher tout le jour ? n’est-ce pas parce que les coupables obtiennent par lui la liberté et la vie ?\n\nC’est pourquoi (le Tao) est l’être le plus estimable du monde."
+    },
+    {
+      "chapter": 63,
+      "text": "(Le sage) pratique le non-agir, il s’occupe de la non-occupation, et savoure ce qui est sans saveur.\n\nLes choses grandes ou petites, nombreuses ou rares, (sont égales à ses yeux).\n\nIl venge ses injures par des bienfaits.\n\nIl commence par des choses aisées, lorsqu’il en médite\n\nde difficiles ; par de petites choses, lorsqu’il en projette de grandes.\n\nLes choses les plus difficiles du monde ont nécessairement commencé par être aisées.\n\nLes choses les plus grandes du monde ont nécessairement commencé par être petites.\n\nDe là vient que, jusqu’à la fin, le Saint ne cherche point à faire de grandes choses ; c’est pourquoi il peut accomplir de grandes choses.\n\nCelui qui promet à la légère tient rarement sa parole.\n\nCelui qui trouve beaucoup de choses faciles éprouve nécessairement de nombreuses difficultés.\n\nDe là vient que le Saint trouve tout difficile ; c’est pourquoi, jusqu’au terme de sa vie, il n’éprouve nulles difficultés."
+    },
+    {
+      "chapter": 64,
+      "text": "Ce qui est calme est aisé à maintenir ; ce qui n'a pas encore paru est aisé à prévenir ; ce qui est faible est aisé à briser ; ce qui est menu est aisé à disperser.\n\nArrêtez le mal avant qu’il n’existe ; calmez le désordre avant qu’il n'éclate.\n\nUn arbre d’une grande circonférence est né d’une racine aussi déliée qu’un cheveu ; une tour de neuf étages est sortie d’une poignée de terre ; un voyage de mille lis a commencé par un pas !\n\nCelu1 qui agit échoue ; celui qui s’attache à une chose la perd.\n\nDe là vient que le Saint n’agit pas, c’est pourquoi il n'échoue point.\n\nIl ne s’attache à rien, c’est pourquoi il ne perd point.\n\nLorsque le peuple fait une chose, il échoue toujours au moment de réussir.\n\nSoyez attentif à la fin comme au commencement, et alors vous n’échouerez jamais.\n\nDe là vient que le Sage fait consister ses désirs dans l'absence de tout désir. Il n’estime point les biens d’une acquisition difficile.\n\nIl fait consister son étude dans l’absence de toute étude, et se préserve des fautes des autres hommes.\n\nIl n’ose pas agir afin d'aider tous les êtres à suivre leur nature."
+    },
+    {
+      "chapter": 65,
+      "text": "Dans l’antiquité, ceux qui excellaient à pratiquer le Tao ne l’employaient point à éclairer le peuple ; ils l’employaient à le rendre simple et ignorant.\n\nLe peuple est difficile à gouverner parce qu’il a trop de prudence ;\n\nCelui qui se sert de la prudence pour gouverner le royaume, est le fléau du royaume.\n\nCelui qui ne se sert pas de la prudence pour gouverner le royaume, fait le bonheur du royaume.\n\nLorsqu’on connaît ces deux choses, on est le modèle (de l’empire).\n\nSavoir être le modèle (de l’empire), c’est être doué d’une vertu céleste.\n\nCette vertu céleste est profonde, immense, opposée aux créatures.\n\nPar elle on parvient à procurer une paix générale."
+    },
+    {
+      "chapter": 66,
+      "text": "Pourquoi les fleuves et les mers peuvent-ils être les rois de toutes les eaux ?\n\nParce qu’ils savent se tenir au-dessous d’elles.\n\nC’est pour cela qu’ils peuvent être les rois de toutes les eaux.\n\nAussi lorsque le Saint désire d’être au-dessus du peuple, il faut que, par ses paroles, il se mette au-dessous de lui.\n\nLorsqu’il désire d’être placé en avant du peuple, il faut que, de sa personne, il se mette après lui.\n\nDe là vient que le Saint est placé au-dessus de tous et il n’est point à charge au peuple ; il est placé en avant de tous et le peuple n’en souffre pas.\n\nAussi tout l’empire aime à le servir et ne s’en lasse point.\n\nComme il ne dispute pas (le premier rang), il n’y a personne dans l’empire qui puisse le lui disputer."
+    },
+    {
+      "chapter": 67,
+      "text": "Dans le monde tous me disent éminent, mais je ressemble à un homme borné.\n\nC’est uniquement parce que je suis éminent, que je ressemble à un homme borné.\n\nQuant à (ceux qu’on appelle) éclairés, il y a longtemps que leur médiocrité est connue !\n\nJe possède trois choses précieuses : je les tiens et les conserve comme un trésor.\n\nLa première s’appelle l’affection ; la seconde s’appelle l’économie ; la troisième s’appelle l’humilité, qui m’empêche de vouloir être le premier de l’empire.\n\nJ’ai de l’affection, c’est pourquoi je puis être courageux.\n\nJ’ai de l’économie, c’est pourquoi je puis faire de grandes dépenses.\n\nJe n’ose être le premier de l’empire, c’est pourquoi je puis devenir le chef de tous les hommes.\n\nMais aujourd’hui on laisse l’affection pour s’abandonner au courage ; on laisse l’économie our se livrer a de grandes dépenses ; on laisse le dernier rang pour rechercher le premier :\n\nVoilà ce qui conduit à la mort.\n\nSi l’on combat avec un cœur rempli d’affect1on, on remporte la victoire ; si l’on défend (une ville), elle est inexpugnable.\n\nQuand le ciel veut sauver un homme, il lui donne l’affection pour le protéger."
+    },
+    {
+      "chapter": 68,
+      "text": "Celui qui excelle à commander une armée, n’a pas une ardeur belliqueuse.\n\nCelui qui excelle à combattre ne se laisse pas aller à la colère.\n\nCelui qui excelle à vaincre ne lutte pas.\n\nCelui qui excelle à employer les hommes se met au-dessous d’eux.\n\nC’est là ce qu’on appelle posséder la vertu qui consiste à ne point lutter.\n\nC’est ce qu’on appelle savoir se servir des forces des hommes.\n\nC’est ce qu’on appelle s’unir au ciel.\n\nTelle était la science sublime des anciens."
+    },
+    {
+      "chapter": 69,
+      "text": "Voici ce que disait un ancien guerrier :\n\nJe n’ose donner le signal, j’aime mieux le recevoir.\n\nJe n’ose avancer d’un pouce, j’aime mieux reculer d’un pied.\n\nC’est ce qui s’appelle n’avoir pas de rang à suivre, de bras à étendre, d’ennemis à poursuivre, ni d’arme à saisir.\n\nIl n’y a pas de plus grand malheur que de résister à la légère.\n\nRésister à la légère, c’est presque perdre notre trésor.\n\nAussi, lorsque deux armées combattent à armes\n\n, c’est l’homme le plus compatissant qui remporte la victoire."
+    },
+    {
+      "chapter": 70,
+      "text": "Mes paroles sont très-faciles à comprendre, très-faciles à pratiquer.\n\nDans le monde personne ne peut les comprendre, personne ne peut les pratiquer.\n\nMes paroles ont une origine, mes actions ont une règle.\n\nLes hommes ne les comprennent pas, c’est pour cela qu’ils m’ignorent.\n\nCeux qui me comprennent sont bien rares. Je n’en suis que plus estimé.\n\nDe là vient que le Saint se revêt d’habits grossiers et cache des pierres précieuses dans son sein."
+    },
+    {
+      "chapter": 71,
+      "text": "Savoir et (croire qu’on) ne sait pas, c’est le comble du mérite.\n\nNe pas savoir et (croire qu’on) sait, c’est la maladie (des hommes).\n\nSi vous vous affligez de cette maladie vous ne l’éprouverez pas.\n\nLe Saint n’éprouve pas cette maladie, parce qu’il s’en afflige.\n\nVoila pourquoi il ne l’éprouve pas."
+    },
+    {
+      "chapter": 72,
+      "text": "Lorsque le peuple ne craint pas les choses redoutables, ce qu’il y a de plus redoutable (la mort) vient fondre sur lui.\n\nGardez-vous de vous trouver à l’étroit dans votre demeure, gardez-vous de vous dégoûter de votre sort.\n\nJe ne me dégoûte point du mien, c’est pourquoi il ne m’inspire point de dégoût.\n\nDe là vient que le Saint se connaît lui-même et ne se met point en lumière ; il se ménage et ne se prise point.\n\nC’est pourquoi il laisse ceci et adopte cela."
+    },
+    {
+      "chapter": 73,
+      "text": "Celui qui met son courage à oser, trouve la mort.\n\nCelui qui met son courage à ne pas oser, trouve la vie.\n\nDe ces deux choses, l’une est utile, l’autre est nuisible.\n\nLorsque le ciel déteste quelqu’un, qui est-ce qui pourrait sonder ses motifs ?\n\nC’est pourquoi le Saint se décide difficilement à agir.\n\nTelle est la voie (la conduite) du ciel.\n\nIl ne lutte point, et il sait remporter la victoire.\n\nIl ne parle point, et (les êtres) savent lui obéir.\n\nIl ne les appelle pas, et ils accourent d’eux-mêmes.\n\nIl paraît lent, et il sait former des plans habiles.\n\nLe filet du ciel est immense ; ses mailles sont écartées et cependant personne n’échappe."
+    },
+    {
+      "chapter": 74,
+      "text": "Lorsque le peuple ne craint pas la mort, comment l’effrayer par la menace de la mort ?\n\nSi le peuple craint constamment la mort, et que quelqu’un fasse le mal, je puis le saisir et le tuer, et alors qui osera (l’imiter) ?\n\nIl y a constamment un magistrat suprême qui inflige la mort.\n\nSi l’on veut remplacer ce magistrat suprême, et infliger soi-même la mort, on ressemble à un homme (inhabile) qui voudrait tailler le bois à la place d’un charpentier.\n\nLorsqulon veut tailler le bois à la place d’un charpentier, il est rare qu’on ne se blesse pas les mains."
+    },
+    {
+      "chapter": 75,
+      "text": "Le peuple a faim parce que le prince dévore une quantité d’impôts.\n\nVoilà pourquoi il a faim.\n\nLe peuple est difficile à gouverner parce que le prince aime à agir.\n\nVoilà pourquoi il est difficile à gouverner.\n\nLe peuple méprise la mort parce qu’il cherche avec trop d’ardeur les moyens de vivre.\n\nVoilà pourquoi il méprise la mort.\n\nMais celui qui ne s’occupe pas de vivre est plus sage que celui qui estime la vie."
+    },
+    {
+      "chapter": 76,
+      "text": "Quand l’homme vient au monde, il est souple et faible ; quand il meurt, il est roide et fort.\n\nQuand les arbres et les plantes naissent, ils sont souples et tendres ; quand ils meurent, ils sont secs et arides.\n\nLa roideur et la force sont les compagnes de la mort ; la souplesse et la faiblesse sont les compagnes de la vie.\n\nC’est pourquoi, lorsqu’une armée est forte, elle ne remporte pas la victoire.\n\nLorsqu’un arbre est devenu fort, on l’abat.\n\nCe qui est fort et grand occupe le rang inférieur ; ce qui est souple et faible occupe le rang supérieur."
+    },
+    {
+      "chapter": 77,
+      "text": "La voie du ciel (c’est-à-dire le ciel) est comme l’ouvrier en arcs, qui abaisse ce qui est élevé, et élève ce qui est bas ; qui ôte le superflu, et supplée à ce qui manque.\n\nLe ciel ôte à ceux qui ont du superflu pour aider ceux qui n’ont pas assez.\n\nIl n’en est pas ainsi de l’homme : il ôte à ceux qui n’ont pas assez pour donner à ceux qui ont du superflu.\n\nQuel est celui qui est capable de donner son superflu aux hommes de l’empire ? Celui-là seul qui possède le Tao.\n\nC’est pourquoi le Saint fait (le bien) et ne s’en prévaut point.\n\nIl accomplit de grandes choses et ne s’y attache point.\n\nIl ne veut pas laisser voir sa sagesse."
+    },
+    {
+      "chapter": 78,
+      "text": "Parmi toutes les choses du monde, il n’en est point de plus molle et de plus faible que l’eau, et cependant, pour briser ce qui est dur et fort, rien ne peut l’emporter sur elle.\n\nPour cela rien ne peut remplacer l’eau.\n\nCe qui est faible triomphe de ce qui est fort ; ce qui est mou triomphe de ce qui est dur.\n\nDans le monde il n’y a personne qui ne connaisse (cette vérité), mais personne ne peut la mettre en pratique.\n\nC’est pourquoi le Saint dit : Celui qui supporte les opprobres du royaume devient chef du royaume.\n\nCelui qui supporte les calamités du royaume devient le roi de l’empire.\n\nLes paroles droites paraissent contraires (à la raison)."
+    },
+    {
+      "chapter": 79,
+      "text": "Si vous voulez apaiser les grandes inimitiés des hommes, ils conserveront nécessairement un reste d’inimitié.\n\nComment pourraient-ils devenir vertueux ?\n\nDe là vient que le Saint garde la partie gauche du contrat et ne réclame rien aux autres.\n\nI C’est pourquoi celui qui a de la vertu songe à donner, celui qui est sans vertu songe à demander.\n\nLe ciel n’affectionne personne en particulier. Il donne constamment aux hommes vertueux."
+    },
+    {
+      "chapter": 80,
+      "text": "(Si je gouvernais) un petit royaume et un peuple peu nombreux, n’eût-il des armes que pour dix ou cent hommes, je l’empêcherais de s’en servir.\n\nJ’apprendrais au peuple à craindre la mort et à ne pas émigrer au loin.\n\nQuand il aurait des bateaux et des chars, il n’y monterait pas.\n\nQuand il aurait des cuirasses et des lances, il ne les porterait pas.\n\nJe le ferais revenir à l’usage des cordelettes nouées.\n\nIl savourerait sa nourriture, il trouverait de l’élégance dans ses vêtements, il se plairait dans sa demeure, il aimerait ses simples usages.\n\nSi un autre royaume se trouvait en face du mien, et que les cris des coqs et des chiens s’entendissent de l’un à l’autre, mon peuple arriverait à la vieillesse et à la mort sans avoir visité le peuple voisin."
+    },
+    {
+      "chapter": 81,
+      "text": "Les paroles sincères ne sont pas élégantes ; les paroles élégantes ne sont pas sincères.\n\nL’homme vertueux n’est pas disert ; celui qui est disert n’est pas vertueux.\n\nCelui qui connaît (le Tao) n’est pas savant ; celui qui est savant ne le connaît pas.\n\nLe Saint n’accumule pas (les richesses,).\n\nPlus il emploie (sa vertu) dans l’intérêt des hommes, et plus elle augmente.\n\nPlus il donne aux hommes et plus il s’enrichit.\n\nTelle est la voie du ciel, qu’il est utile aux êtres et ne leur nuit point.\n\nTelle est la voie du Saint, qu’il agit et ne dispute point."
+    }
+  ]
+}

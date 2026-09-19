@@ -1,0 +1,13 @@
+.env
+data/
+*.epub
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ruff_cache/
+
+# Flutter (once app/ exists)
+app/build/
+app/.dart_tool/
+app/.flutter-plugins*

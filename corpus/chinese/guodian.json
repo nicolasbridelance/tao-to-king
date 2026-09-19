@@ -1,0 +1,165 @@
+{
+  "witness": "guodian",
+  "language": "zh",
+  "description": "Guodian Chu-tomb bamboo-slip Laozi (郭店楚墓竹簡老子), c. 300 BCE, the earliest known excavated manuscript of the text. Only a partial witness: the three bundles (甲/乙/丙, 'A'/'B'/'C') together cover material corresponding to 31 of the 81 chapters of the received (Wang Bi) text; the rest of the 81 chapters are simply absent from this witness (not fragmentary placeholders - genuinely not represented on the excavated strands). Chapters are indexed here on the Wang Bi canonical numbering using the standard scholarly correspondence between Guodian bundles/strand-groups and received chapters (as also reflected in the widely used Jingmen Museum 'zu' (组) groupings), not the physical order of the bamboo strands themselves.",
+  "order_note": "Guodian text is organized in three bundles (甲/乙/丙) each internally divided into numbered strand-groups ('組'). Each strand-group corresponds to one or more received-text chapters, already identified and published in the secondary scholarly literature (e.g. the Jingmen Museum's original 1998 publication and Robert Henricks' 2000 translation/concordance). This file reuses that established correspondence (cross-checked against the raw bundle transcriptions on Chinese Wikisource, 郭店楚墓竹簡, which preserve the original bamboo-slip numbering) rather than inventing a new alignment. Chapter 64 of the received text is attested here as three separate, non-contiguous Guodian passages (two in bundle 甲, one in bundle 丙) - see the 'notes' field on that chapter entry.",
+  "source_url": "https://6dsy.cn/daodejing-guodianchujianben-jiaben ; https://6dsy.cn/daodejing-guodianchujianben-yiben ; https://6dsy.cn/daodejing-guodianchujianben-bingben (per-chapter correspondence); cross-checked against raw bundle transcriptions at https://zh.wikisource.org/wiki/%E9%83%AD%E5%BA%97%E6%A5%9A%E5%A2%93%E7%AB%B9%E7%B0%A1",
+  "retrieved": "2026-09-17",
+  "chapters": [
+    {
+      "chapter": 2,
+      "text": "天下皆知美之为美也，恶已；皆知善，此其不善已。有亡之相生也，难易之相成也，长短之相形也，高下之相盈也。音声之相和也，先后之相随也。是以圣人居亡为之事，行不言之教。万物作而弗始也，为而弗恃也，成而弗居。夫唯弗居也，是以弗去也。",
+      "notes": "Guodian bundle 甲1 (bamboo-slip group '甲1')."
+    },
+    {
+      "chapter": 5,
+      "text": "天地之间，其犹橐龠与？虚而不屈，动而愈出。",
+      "notes": "Guodian bundle 甲3 (bamboo-slip group '甲3')."
+    },
+    {
+      "chapter": 9,
+      "text": "持而盈之，不不若已。湍而群之，不可长保也。金玉盈室，莫能守也。贵富骄，自遗咎也。功遂身退，天之道也。注：文中“、”等数字符号，表示其符号前的此段文字内容所对应的竹简编号，下方图片编号与竹简编号一致。原文：（请由右向左进行阅读）上一章返回目录‎‏下一章‏上一章‏返回目录‎‏下一章‏",
+      "notes": "Guodian bundle 甲5 (bamboo-slip group '甲5')."
+    },
+    {
+      "chapter": 13,
+      "text": "人宠辱若惊，贵大患若身。何谓宠辱？宠为下也。得之若惊，失之若惊，是谓宠辱惊。□□□□□若身？吾所以有大患者，为吾有身。及吾无身，或何□□□□□□为天下，若可以托天下矣；爱以身为天下，若可以去天下矣。",
+      "notes": "Guodian bundle 乙2 (bamboo-slip group '乙2')."
+    },
+    {
+      "chapter": 15,
+      "text": "长古之善为士者，必微溺玄达，深不可识，是以为之容：豫乎若冬涉川，犹乎其若畏四邻，俨乎其若客。涣乎其若释，屯乎其若朴，沌乎其若浊。孰能浊以静者，将徐清。孰能安以动者，将徐生。保此道者不欲尚盈。",
+      "notes": "Guodian bundle 甲1 (bamboo-slip group '甲1')."
+    },
+    {
+      "chapter": 16,
+      "text": "至虚，恒也。守中，笃也。万物旁作，居以须复也。天道员员，各复其根。",
+      "notes": "Guodian bundle 甲4 (bamboo-slip group '甲4')."
+    },
+    {
+      "chapter": 17,
+      "text": "太上下知有之，其次亲誉之，其次畏之，其次侮之。信不足，安有不信，犹乎其贵言也。成事遂功，而百姓曰：我自然也。",
+      "notes": "Guodian bundle 丙1 (bamboo-slip group '丙1')."
+    },
+    {
+      "chapter": 18,
+      "text": "故大道废，安有仁义。六亲不和，安有孝慈。邦家昏□，安有正臣。",
+      "notes": "Guodian bundle 丙2 (bamboo-slip group '丙2')."
+    },
+    {
+      "chapter": 19,
+      "text": "继智弃辩，民利百倍。继巧弃利，盗贼无有。继化弃虑，民复孝慈。三言以为辨不足，或命之，或呼属：视素保朴，少私寡欲。",
+      "notes": "Guodian bundle 甲1 (bamboo-slip group '甲1')."
+    },
+    {
+      "chapter": 20,
+      "text": "唯与呵，相去几何？美与恶，相去何若？人之所畏，亦不可以不畏。",
+      "notes": "Guodian bundle 乙1 (bamboo-slip group '乙1')."
+    },
+    {
+      "chapter": 25,
+      "text": "有状混成，先天地生，敓穆，独立不改，可以为天下母。未知其名，字之曰道，吾强为之名曰大。大曰逝，逝曰远，远曰返。天大，地大，道大，王亦大。国中有四大安，王居一安。人法地，地法天，天法道，道法自然。",
+      "notes": "Guodian bundle 甲2 (bamboo-slip group '甲2')."
+    },
+    {
+      "chapter": 30,
+      "text": "以道佐人主者，不欲以兵强于天下。善者果而已，不以取强。果而弗伐，果而弗骄，果而弗矜，是谓果而不强。其事好。",
+      "notes": "Guodian bundle 甲1 (bamboo-slip group '甲1')."
+    },
+    {
+      "chapter": 31,
+      "text": "君子居则贵左，用兵则贵右。故曰兵者□□□□□□得已而用之，恬淡为上。弗美也，美之，是乐杀人。夫乐□□□以得志于天下。故吉事上左，丧事上右。是以偏将军居左，上将军居右，言以丧礼居之也。故杀□□，则以哀悲莅之；战胜，则以丧礼居之。",
+      "notes": "Guodian bundle 丙4 (bamboo-slip group '丙4')."
+    },
+    {
+      "chapter": 32,
+      "text": "道恒亡名，朴，虽微，天地弗敢臣。侯王如能守之，万物将自宾。天地相合也，以逾甘露。民莫之令而自均安。始制有名，名亦既有，夫亦将知止，知止所以不殆。譬道之在天下也，犹小谷之与江海。",
+      "notes": "Guodian bundle 甲2 (bamboo-slip group '甲2')."
+    },
+    {
+      "chapter": 35,
+      "text": "执大象，天下往。往而不害，安平大。乐与饵，过客止。故道□□□，淡呵其无味也。视之不足见，听之不足闻，而不可既也。",
+      "notes": "Guodian bundle 丙3 (bamboo-slip group '丙3')."
+    },
+    {
+      "chapter": 37,
+      "text": "道恒亡为也，侯王能守之，而万物将自化。化而欲作，将镇之以亡名之朴。夫亦将知足，知以静，万物将自定。",
+      "notes": "Guodian bundle 甲1 (bamboo-slip group '甲1')."
+    },
+    {
+      "chapter": 40,
+      "text": "返也者，道动也。弱也者，道之用也。天下之物生于有，生于无。",
+      "notes": "Guodian bundle 甲5 (bamboo-slip group '甲5')."
+    },
+    {
+      "chapter": 41,
+      "text": "上士闻道，勤能行于其中。中士闻道，若闻若亡。下士闻道，大笑之。弗大笑，不足以为道矣。是以建言有之：明道如孛，夷道□□□道若退。上德如谷，大白如辱，广德如不足，建德如□□真如愉，大方亡隅，大器曼成，大音希声，大象亡形，道□□□□□",
+      "notes": "Guodian bundle 乙3 (bamboo-slip group '乙3')."
+    },
+    {
+      "chapter": 44,
+      "text": "名与身孰亲？身与货孰多？得与亡孰病？甚爱必大费，厚藏必多亡。故知足不辱，知止不殆，可以长久。",
+      "notes": "Guodian bundle 甲5 (bamboo-slip group '甲5')."
+    },
+    {
+      "chapter": 45,
+      "text": "大成若缺，其用不敝。大盈若盅，其用不穷。大巧若拙，大赢若诎，大直若屈。燥胜凔，清胜热，清净为天下正。",
+      "notes": "Guodian bundle 乙3 (bamboo-slip group '乙3')."
+    },
+    {
+      "chapter": 46,
+      "text": "罪莫厚乎甚欲，咎莫险乎欲得，祸莫大乎不知足。知足之为足，此恒足矣。",
+      "notes": "Guodian bundle 甲1 (bamboo-slip group '甲1')."
+    },
+    {
+      "chapter": 48,
+      "text": "学者日益，为道者日损。损之或损，以至亡为也。亡为而无亡不为，继学亡忧。",
+      "notes": "Guodian bundle 乙1 (bamboo-slip group '乙1')."
+    },
+    {
+      "chapter": 52,
+      "text": "闭其门，塞其兑，终身不勤。启其兑，賽其事，终身不逨。",
+      "notes": "Guodian bundle 乙3 (bamboo-slip group '乙3')."
+    },
+    {
+      "chapter": 54,
+      "text": "善建者不拔，善保者不脱，子孙以其祭祀不屯。修之身，其德乃真。修之家，其德有余。修之乡，其德乃长。修之邦，其德乃丰。修之天下，□□□□□□□家，以乡观乡，以邦观邦，以天下观天下。吾何以知天□□□□。注：文中“、”等数字符号，表示其符号前的此段文字内容所对应的竹简编号，下方图片编号与竹简编号一致。原文：（请由右向左进行阅读）上一章返回目录‎‏下一章‏上一章‏返回目录‎‏下一章‏",
+      "notes": "Guodian bundle 乙3 (bamboo-slip group '乙3')."
+    },
+    {
+      "chapter": 55,
+      "text": "含德之厚者，比于赤子。螝蠆蠆蛇弗蠚，攫鸟猛兽弗扣。骨弱筋柔而捉固，未知牝牡之合然怒，精之至也。终日呼而不忧，和之至也。和曰常，知和曰明，益生曰祥，心使气曰强。物壮则老，是谓不道。",
+      "notes": "Guodian bundle 甲5 (bamboo-slip group '甲5')."
+    },
+    {
+      "chapter": 56,
+      "text": "知之者弗言，言之者弗知。闭其兑，塞其门，和其光，同其尘，挫其锐，解其纷，是谓玄同。故不可得而亲，亦不可得而疏；不可得而利，亦不可得而害；不可得而贵，亦不可得而贱。故为天下贵。",
+      "notes": "Guodian bundle 甲4 (bamboo-slip group '甲4')."
+    },
+    {
+      "chapter": 57,
+      "text": "以正治邦，以奇用兵，以亡事取天下。吾何以知其然也？夫天多忌讳，而民弥叛，民多利器，而邦滋昏。人多智，而奇物滋起。法物滋彰，盗贼多有。是以圣人之言曰：我亡事而民自富，我亡为而民自化，我好静而民自正，我欲不欲而民自朴。",
+      "notes": "Guodian bundle 甲5 (bamboo-slip group '甲5')."
+    },
+    {
+      "chapter": 59,
+      "text": "治人事天，莫若嗇。夫唯嗇是以早，是以早服，是谓□□□□□□□□□□不克则莫知其极。莫知其极，可以有国。有国之母，可以长□□□□□□□□□长生久视之道也。",
+      "notes": "Guodian bundle 乙1 (bamboo-slip group '乙1')."
+    },
+    {
+      "chapter": 63,
+      "text": "为亡为，事亡事，味亡味。大，小之。多易必多难。是以圣人犹难之，故终亡难。",
+      "notes": "Guodian bundle 甲1 (bamboo-slip group '甲1')."
+    },
+    {
+      "chapter": 64,
+      "text": "为之者败之，执之者远之。是以圣人亡为故亡败，亡执故亡失。临事之纪，慎终如始，此亡败事矣。圣人欲不欲，不贵难得之货；教不教，复众之所过。是故圣人能辅万物之自然，而弗能为。为之者败之，执之者失之。圣人无为，故无败也；无执，故□□□。慎终若始，则无败事矣。人之败也，恒于其且成也败之。是以□人欲不欲，不贵难得之货；学不学，复众之所过。是以能辅万物之自然而弗敢为。注：文中“、”等数字符号，表示其符号前的此段文字内容所对应的竹简编号，下方图片编号与竹简编号一致。原文：（请由右向左进行阅读）上一章返回目录‎‏下一章‏上一章‏返回目录‎‏下一章‏其安也，易持也。其未兆也，易谋也。其脆也，易判也，其几也，易散也。为之于其亡有也，治之于其未乱。合□□□□□□末。九层之台，作□□□□□□□□□足下。",
+      "notes": "Received chapter 64 corresponds to 3 separate, non-contiguous Guodian passages copied on different bamboo strands (part 1 = bundle 甲1, part 3 = bundle 丙4, part 2 = bundle 甲4). They are concatenated here in the conventional part order (1, 2, 3); this concatenation reflects modern scholarly correspondence to the received chapter, not a physical join on the original bamboo slips. Guodian predates the Wang Bi division and chapter 64 in the received text is widely believed to combine originally distinct sayings, which is exactly what these separate Guodian strands preserve."
+    },
+    {
+      "chapter": 66,
+      "text": "江海所以为百谷王，以其能为百谷下，是以能为百谷王。圣人之在民前也，以身后之；其在民上也，以言下之。其在民上也，民弗厚也；其在民前也，民弗害也。天下乐进而弗厌。以其不争也，故天下莫能与之争。",
+      "notes": "Guodian bundle 甲1 (bamboo-slip group '甲1')."
+    }
+  ]
+}
