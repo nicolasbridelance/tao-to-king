@@ -1,0 +1,17 @@
+axes:
+  - id: register
+    type: transformer
+    description: Registre de l'explication.
+    values:
+      - id: scholarly
+        label: Savant
+        instruction: Écrire avec des termes précis et expliciter toute incertitude.
+        introduced: '2026-09-19'
+      - id: dialogue
+        label: Dialogué
+        instruction: Mettre en scène une question et une réponse sans inventer de source.
+        introduced: '2026-09-19'
+      - id: aphoristic
+        label: Aphoristique
+        instruction: Condenser la lecture sans attribuer la formulation au texte ancien.
+        introduced: '2026-09-19'

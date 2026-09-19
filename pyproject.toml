@@ -3,7 +3,7 @@ name = "taolab"
 version = "0.1.0"
 description = "Pipeline d'exégèse combinatoire du Tao-tö king"
 requires-python = ">=3.12"
-dependencies = ["beautifulsoup4>=4.12", "requests>=2.31"]
+dependencies = ["beautifulsoup4>=4.12", "PyYAML>=6.0", "requests>=2.31"]
 
 [project.scripts]
 taolab = "taolab.__main__:main"

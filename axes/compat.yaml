@@ -1,0 +1,13 @@
+rules:
+  - id: one_requires_translation
+    when: {translation_layer: one}
+    requires: {min_translations: 1}
+    reason: Une traduction ne peut être fournie que si elle existe pour ce chapitre.
+  - id: comparison_requires_two_translations
+    when: {translation_layer: comparison}
+    requires: {min_translations: 2}
+    reason: Une comparaison exige deux traductions du même chapitre.
+  - id: long_requires_substantial_source
+    when: {length: long}
+    requires: {min_source_characters: 80}
+    reason: Un fragment très court ne soutient pas une longue lecture.

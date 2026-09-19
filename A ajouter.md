@@ -46,3 +46,10 @@ Aussi : ajouter un module Yi Jing
 - Le Yi Jing est présent comme corpus structuré (jugement, lignes, commentaires, ailes). L'interface de tirage ou de jeu reste à concevoir ; les textes de Mawangdui n'ont pas été trouvés en transcription complète dans la source consultée.
 - La traduction Amiot n'est pas importée : la page française directement lisible de *L'Art de la guerre* correspond à une édition de 1996. Le fac-similé de 1772 existe, mais sa transcription Wikisource n'est pas complète ; le chinois de Sunzi est disponible pour l'essai.
 - Les paragraphes du Tchouang-tseu et du Lie-tseu sont des unités de consultation ; le découpage en anecdotes reste une curation à faire, sans le déduire automatiquement des sauts de paragraphe.
+
+## État de la planification (2026-09-19)
+
+- Les cinq axes du premier essai (`discipline`, `scale`, `register`, `length`, `translation_layer`) et les règles de compatibilité sont définis dans `axes/`.
+- `python -m taolab plan` prépare à blanc 600 cellules couvrant les 483 unités chinoises principales des six œuvres. La graine fixe le tirage ; `--write` persiste le plan en SQLite sans doublons.
+- Les traductions sont fournies uniquement lorsqu'elles existent pour le même passage. La comparaison de deux traductions est actuellement disponible surtout pour le Tao-tö king. Les cellules gardent les hashes exacts des témoins utilisés.
+- L'axe `tradition` envisagé ci-dessus demande encore un alignement vérifié entre passages des œuvres. Les autres étages de génération et d'évaluation ne sont pas encore branchés au plan.

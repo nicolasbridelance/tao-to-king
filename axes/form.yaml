@@ -1,0 +1,20 @@
+axes:
+  - id: length
+    type: constraint
+    description: Longueur maximale du corps de réponse.
+    values:
+      - id: short
+        label: 150 signes
+        instruction: Limiter le corps à 150 signes.
+        max_characters: 150
+        introduced: '2026-09-19'
+      - id: medium
+        label: 400 signes
+        instruction: Limiter le corps à 400 signes.
+        max_characters: 400
+        introduced: '2026-09-19'
+      - id: long
+        label: 1200 signes
+        instruction: Limiter le corps à 1200 signes.
+        max_characters: 1200
+        introduced: '2026-09-19'

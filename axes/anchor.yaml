@@ -1,0 +1,17 @@
+axes:
+  - id: translation_layer
+    type: selector
+    description: Contexte de traduction fourni avec le chinois.
+    values:
+      - id: chinese
+        label: Chinois seul
+        instruction: Lire le passage chinois sans traduction fournie.
+        introduced: '2026-09-19'
+      - id: one
+        label: Une traduction
+        instruction: Lire le chinois avec une traduction étiquetée comme telle.
+        introduced: '2026-09-19'
+      - id: comparison
+        label: Écart entre deux traductions
+        instruction: Comparer deux traductions étiquetées en revenant au chinois.
+        introduced: '2026-09-19'

@@ -1,0 +1,33 @@
+axes:
+  - id: discipline
+    type: transformer
+    description: Méthode d'inférence appliquée au passage.
+    values:
+      - id: philology
+        label: Philologie
+        instruction: Justifier les inférences par les mots chinois et leurs variantes attestées.
+        introduced: '2026-09-19'
+      - id: politics
+        label: Politique
+        instruction: Examiner les conséquences sur la conduite du pouvoir et des collectifs.
+        introduced: '2026-09-19'
+      - id: strategy
+        label: Stratégie
+        instruction: Examiner les choix, les contraintes et les effets d'une action en situation.
+        introduced: '2026-09-19'
+  - id: scale
+    type: transformer
+    description: Échelle d'analyse.
+    values:
+      - id: cosmos
+        label: Cosmos
+        instruction: Examiner la portée cosmologique sans l'attribuer au texte sans preuve.
+        introduced: '2026-09-19'
+      - id: community
+        label: Communauté
+        instruction: Examiner les relations entre personnes et les institutions proches.
+        introduced: '2026-09-19'
+      - id: body
+        label: Corps
+        instruction: Examiner l'expérience corporelle explicitement soutenue par le passage.
+        introduced: '2026-09-19'

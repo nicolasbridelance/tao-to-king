@@ -6,6 +6,8 @@ import sqlite3
 from pathlib import Path
 
 from taolab.corpus.database import build_database
+from taolab.plan.axes import load_catalogue
+from taolab.plan.planner import make_plan, save_plan
 
 
 def main() -> None:
@@ -24,9 +26,29 @@ def main() -> None:
     context = commands.add_parser("context")
     context.add_argument("work")
     context.add_argument("number", type=int, help="Chapter or hexagram number")
+    planning = commands.add_parser("plan", help="Plan cells across every Chinese root unit")
+    planning.add_argument("--size", type=int, default=600)
+    planning.add_argument("--seed", type=int, default=0)
+    planning.add_argument("--prompt-version", default="spike-v1")
+    planning.add_argument("--axes-dir", type=Path, default=Path("axes"))
+    planning.add_argument("--write", action="store_true", help="Persist the plan in SQLite")
     args = parser.parse_args()
     if args.command == "build-corpus":
         print(json.dumps(build_database(Path("corpus"), args.db), ensure_ascii=False))
+        return
+    if args.command == "plan":
+        try:
+            catalogue = load_catalogue(args.axes_dir)
+            database = str(args.db) if args.write else f"file:{args.db.resolve()}?mode=ro"
+            with sqlite3.connect(database, uri=not args.write) as db:
+                plan = make_plan(db, catalogue, size=args.size, seed=args.seed,
+                                 prompt_version=args.prompt_version)
+                if args.write:
+                    save_plan(db, catalogue, plan)
+            print(json.dumps({**plan.summary(), "written": args.write}, ensure_ascii=False,
+                             indent=2))
+        except (ValueError, sqlite3.Error, OSError) as error:
+            parser.error(str(error))
         return
     if args.command == "show":
         with sqlite3.connect(args.db) as db:
